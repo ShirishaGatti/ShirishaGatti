@@ -29,7 +29,7 @@ I’m currently focused on solving **DSA problems**, learning **modern backend f
 
 ## 💼 Projects
 
-### 🔹 [HarshClinic – Clinic Management System](https://github.com/ShirishaGatti/harsh-clinic)
+### 🔹 [HarshClinic – Clinic Management System](https://github.com/ShirishaGatti/harsh.git)
 A real-world clinic management system for HarshClinic.
 
 - ✅ Admin and Patient Authentication
@@ -37,7 +37,7 @@ A real-world clinic management system for HarshClinic.
 - 💳 Billing and Patient Registration
 - 🛠️ Tech Stack: Spring Boot, Hibernate, React.js, MySQL
 
-### 🔹 [OptimalEats](https://github.com/ShirishaGatti/OptimalEats)
+### 🔹 [OptimalEats](https://github.com/ShirishaGatti/oprimalEats-backend.git)
 A web app to connect mess organizations and grocery shops for managing leftover food and promotional offers.
 
 - 🔄 Role-Based User System (Mess, Grocery, Student)
