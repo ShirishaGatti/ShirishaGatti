@@ -1,12 +1,14 @@
 # 👩‍💻 Shirisha Ambadas Gatti
 
-🎓 Computer Engineering Student | 🔧 Full Stack Developer | 💡 Problem Solver  
-📍 India | 📧 shirishagatti04@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](http://linkedin.com/in/shirisha-gatti-a78390245/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=flat-square)](https://github.com/ShirishaGatti)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/u/shiri_g/)
+🎓 **Computer Engineering Student**&nbsp;&nbsp;|&nbsp;&nbsp;🔧 **Full Stack Developer**&nbsp;&nbsp;|&nbsp;&nbsp;💡 **Problem Solver**  
+📍 **India** &nbsp;&nbsp;&nbsp;&nbsp; 📧 **Email:** [shirishagatti04@gmail.com](mailto:shirishagatti04@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/shirisha-gatti-a78390245/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square&logoColor=white)](https://github.com/ShirishaGatti)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/u/shiri_g/)
 
 ---
+
 
 ## 👩‍💻 About Me
 
