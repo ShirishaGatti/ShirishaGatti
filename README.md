@@ -58,12 +58,6 @@ A web app to connect mess organizations and grocery shops for managing leftover 
 - Trained in Core and Advanced Java.
 - Worked with JDBC, Swing, and MySQL.
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner – Smart India Hackathon (SIH) InterZonal College Level**
-- 💯 **100 Days Leetcode Challenge Badge**
 
 ---
 
