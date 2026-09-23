@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/shirisha-gatti-a78390245/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square&logoColor=white)](https://github.com/ShirishaGatti)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/u/shiri_g/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/u/shirishaa_g/)
 
 ---
 
@@ -74,7 +74,7 @@ A web app to connect mess organizations and grocery shops for managing leftover 
 
 - 💌 Email: shirishagatti04@gmail.com  
 - 🔗 LinkedIn: [Shirisha Gatti](http://linkedin.com/in/shirisha-gatti-a78390245/)  
-- 🧠 Leetcode: [shiri_g](https://leetcode.com/u/shiri_g/)
+- 🧠 Leetcode: [shirishaa_g](https://leetcode.com/u/shirishaa_g/)
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
